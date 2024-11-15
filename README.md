@@ -1,5 +1,5 @@
 **Synonym Searcher v0.5**<br/>
-Egy magyar szininimakereső (Python verzió).<br/>
+Egy magyar szinonimakereső (Python verzió).<br/>
 
 TODO:
 - bővített keresés
