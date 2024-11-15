@@ -449,9 +449,9 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.rhyme)
         layout.addWidget(self.anagramma)
 
-        self.all_button = QPushButton("Komplett szinonimaszótár", container)
-        self.all_button.clicked.connect(self.onAll)
-        layout.addWidget(self.all_button)
+        # self.all_button = QPushButton("Komplett szinonimaszótár", container)
+        # self.all_button.clicked.connect(self.onAll)
+        # layout.addWidget(self.all_button)
 
         layout.addStretch(100)
         container.setLayout(layout)
