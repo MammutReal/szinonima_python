@@ -1,18 +1,25 @@
-**Synonym Searcher**<br/>
-A Hungarian synonym searcher (Python version).<br/>
+**Synonym Searcher v0.5**<br/>
+Egy magyar szininimakereső (Python verzió).<br/>
 
-Usage:<br/>
+TODO:
+- bővített keresés
+- lehetőség saját szavak felvételére
+- további kötetek feldolgozása (ellentétek szótára, szlengszótár)
+- adatbázis SQL-be konvertálása
+- átírás C++-ra
+
+Használat:<br/>
 `python.exe synonym.py`<br/>
 
 > [!TIP]
-> The program uses Qt6, so Pyside6 is required.<br/>
-> The best if we create and activate a virtual environment for that:
+> A program Qt6-ot használ a guihoz, így a Pyside6 modulra szükség van.<br/>
+> A legjobb, ha ehhez virtuális környezetet csinálunk és aktiválunk a program könyvtárában:
 > 
 > ```
 > python.exe -m venv venv
 > venv/Scripts/activate.bat
 > ```
 >
-> After that we can install it:<br/>
+> Ezután installálhatjuk a Pyside6-ot:<br/>
 >
 > `pip install Pyside6`
