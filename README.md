@@ -9,7 +9,7 @@ TODO:
 - átírás C++-ra
 
 Használat:<br/>
-`python.exe synonym.py`<br/>
+`python.exe szinonima.py`<br/>
 
 > [!TIP]
 > A program Qt6-ot használ a guihoz, így a Pyside6 modulra szükség van.<br/>
