@@ -4,7 +4,7 @@ Egy magyar szininimakereső (Python verzió).<br/>
 TODO:
 - bővített keresés
 - lehetőség saját szavak felvételére
-- további kötetek feldolgozása (ellentétek szótára, szlengszótár)
+- további kötetek feldolgozása (ellentétes jelentésű szavak szótára, szlengszótár)
 - adatbázis SQL-be konvertálása
 - átírás C++-ra
 
