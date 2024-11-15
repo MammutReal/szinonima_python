@@ -1,0 +1,42 @@
+body {
+    padding: 5px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    line-height: 1.6em;
+}
+
+.szocikk {
+    margin-bottom: 0.5em;
+}
+
+.section {
+    margin-bottom: 2em;
+}
+
+.firstline {
+    margin: 0;
+}
+
+.szinonimabokor {
+    padding-left: 20px;
+    margin: 0;
+}
+
+.antonima {
+    font-variant: small-caps;
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
+.notfound {
+    margin: auto 0;
+    margin-top: 3em;
+    font-weight: bold;
+    text-align: center;
+    font-size: 2em;
+}
