@@ -1,2 +1,4 @@
-# szinonima_python
+#Synonym Searcher
 A Hungarian synonym searcher (Python version).
+
+Usage:
