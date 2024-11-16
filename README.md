@@ -2,7 +2,7 @@
 Egy magyar szinonimakereső (Python verzió).<br/>
 
 TODO:
-- bővített keresés
+- bővített keresés (egy adott szó szinonimáinak keresése minta alapján, +eszperente, akroníma, alliteráció keresés)
 - lehetőség saját szavak felvételére
 - további kötetek feldolgozása (ellentétes jelentésű szavak szótára, szlengszótár)
 - adatbázis SQL-be konvertálása
