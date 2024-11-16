@@ -149,6 +149,8 @@ class Szinonimak:
                 parts.append('<span class="highlighted">' + szolas["szolas"] + '</span>')
             else:
                 parts.append(szolas["szolas"])
+        else:
+            parts.append(szolas["szolas"])
 
         if "ertelmi_kiegeszites_mogotte" in szolas.keys():
             parts.append("[" + szolas["ertelmi_kiegeszites_mogotte"] + "]")
