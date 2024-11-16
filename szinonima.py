@@ -421,7 +421,7 @@ class MainWindow(QMainWindow):
         self.in_cimszo = QCheckBox("Címszóban", container)
         self.in_cimszo.setChecked(self.szinonimak._cimszo)
         self.in_cimszo.checkStateChanged.connect(self.onCimszo)
-        self.in_szinonimak = QCheckBox("Szinonímák között", container)
+        self.in_szinonimak = QCheckBox("Szinonimák között", container)
         self.in_szinonimak.setChecked(self.szinonimak._szinonimak)
         self.in_szinonimak.checkStateChanged.connect(self.onSzinonimak)
         self.in_szolasok = QCheckBox("Szólások között", container)
